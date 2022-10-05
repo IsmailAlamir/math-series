@@ -1,6 +1,7 @@
-# Project: math_series
+# LAB - Class 02
+## Project: math_series
 Author: Ismail Alamir
-## Setup
+### Setup
 
 How to initialize/run your application
 ```
